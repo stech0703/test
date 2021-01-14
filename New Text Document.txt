@@ -1,38 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@stech0703
-Learn Git and GitHub without any code!
-
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-codingmarket07 /
-custom-file-upload
-
-1
-3
-
-    2
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-custom-file-upload/index.html
-@codingmarket07
-codingmarket07 files added
-Latest commit 0cc9682 on Apr 6, 2020
-History
-1 contributor
-132 lines (130 sloc) 2.89 KB
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -166,17 +132,4 @@ History
 </body>
 </html>
 
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
